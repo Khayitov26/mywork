@@ -386,6 +386,13 @@ p {
         font-size: 40px;
         line-height: 40px;
         text-align: center;
+        padding-top: 50px;
+    }
+}
+
+@media (max-width:464px) {
+    .header__content-title {
+        margin-top: 50px;
     }
 }
 
